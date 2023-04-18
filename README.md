@@ -16,8 +16,6 @@
 
 Using third-party scripts means you trust that the script’s developer hasn’t inserted malicious functionality into the code and has secured it against attackers trying to do the same. You should never run code you don't trust.
 
-Please read: [what I'm doing to ensure this is safe for users][security_policy].
-
 ----
 #### DISCLAIMER
 
